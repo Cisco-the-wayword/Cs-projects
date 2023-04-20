@@ -1,0 +1,15 @@
+G:\My Drive\Programming\C#\source\repos\array3\bin\Debug\net6.0\array3.exe
+G:\My Drive\Programming\C#\source\repos\array3\bin\Debug\net6.0\array3.deps.json
+G:\My Drive\Programming\C#\source\repos\array3\bin\Debug\net6.0\array3.runtimeconfig.json
+G:\My Drive\Programming\C#\source\repos\array3\bin\Debug\net6.0\array3.dll
+G:\My Drive\Programming\C#\source\repos\array3\bin\Debug\net6.0\array3.pdb
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\array3.csproj.AssemblyReference.cache
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\array3.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\array3.AssemblyInfoInputs.cache
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\array3.AssemblyInfo.cs
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\array3.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\array3.dll
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\refint\array3.dll
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\array3.pdb
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\array3.genruntimeconfig.cache
+G:\My Drive\Programming\C#\source\repos\array3\obj\Debug\net6.0\ref\array3.dll

@@ -1,0 +1,15 @@
+G:\My Drive\Programming\C#\source\repos\stopwatch\bin\Debug\net6.0\stopwatch.exe
+G:\My Drive\Programming\C#\source\repos\stopwatch\bin\Debug\net6.0\stopwatch.deps.json
+G:\My Drive\Programming\C#\source\repos\stopwatch\bin\Debug\net6.0\stopwatch.runtimeconfig.json
+G:\My Drive\Programming\C#\source\repos\stopwatch\bin\Debug\net6.0\stopwatch.dll
+G:\My Drive\Programming\C#\source\repos\stopwatch\bin\Debug\net6.0\stopwatch.pdb
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\stopwatch.csproj.AssemblyReference.cache
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\stopwatch.AssemblyInfoInputs.cache
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\stopwatch.AssemblyInfo.cs
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\stopwatch.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\stopwatch.dll
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\refint\stopwatch.dll
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\stopwatch.pdb
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\stopwatch.genruntimeconfig.cache
+G:\My Drive\Programming\C#\source\repos\stopwatch\obj\Debug\net6.0\ref\stopwatch.dll

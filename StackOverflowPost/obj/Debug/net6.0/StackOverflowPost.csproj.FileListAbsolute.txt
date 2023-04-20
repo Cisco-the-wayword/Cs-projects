@@ -1,0 +1,15 @@
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\bin\Debug\net6.0\StackOverflowPost.exe
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\bin\Debug\net6.0\StackOverflowPost.deps.json
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\bin\Debug\net6.0\StackOverflowPost.runtimeconfig.json
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\bin\Debug\net6.0\StackOverflowPost.dll
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\bin\Debug\net6.0\StackOverflowPost.pdb
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\StackOverflowPost.csproj.AssemblyReference.cache
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\StackOverflowPost.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\StackOverflowPost.AssemblyInfoInputs.cache
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\StackOverflowPost.AssemblyInfo.cs
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\StackOverflowPost.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\StackOverflowPost.dll
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\refint\StackOverflowPost.dll
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\StackOverflowPost.pdb
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\StackOverflowPost.genruntimeconfig.cache
+G:\My Drive\Programming\C#\source\repos\StackOverflowPost\obj\Debug\net6.0\ref\StackOverflowPost.dll

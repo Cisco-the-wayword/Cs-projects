@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\bank-config\bin\Debug\net6.0\bank-config.exe
+C:\Users\user\source\repos\bank-config\bin\Debug\net6.0\bank-config.deps.json
+C:\Users\user\source\repos\bank-config\bin\Debug\net6.0\bank-config.runtimeconfig.json
+C:\Users\user\source\repos\bank-config\bin\Debug\net6.0\bank-config.dll
+C:\Users\user\source\repos\bank-config\bin\Debug\net6.0\bank-config.pdb
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\bank-config.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\bank-config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\bank-config.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\bank-config.AssemblyInfo.cs
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\bank-config.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\bank-config.dll
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\refint\bank-config.dll
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\bank-config.pdb
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\bank-config.genruntimeconfig.cache
+C:\Users\user\source\repos\bank-config\obj\Debug\net6.0\ref\bank-config.dll
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\bank-config.csproj.AssemblyReference.cache
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\bank-config.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\bank-config.AssemblyInfoInputs.cache
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\bank-config.AssemblyInfo.cs
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\bank-config.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\bank-config.dll
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\refint\bank-config.dll
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\bank-config.pdb
+G:\My Drive\Programming\C#\source\repos\bank-config\bin\Debug\net6.0\bank-config.exe
+G:\My Drive\Programming\C#\source\repos\bank-config\bin\Debug\net6.0\bank-config.deps.json
+G:\My Drive\Programming\C#\source\repos\bank-config\bin\Debug\net6.0\bank-config.runtimeconfig.json
+G:\My Drive\Programming\C#\source\repos\bank-config\bin\Debug\net6.0\bank-config.dll
+G:\My Drive\Programming\C#\source\repos\bank-config\bin\Debug\net6.0\bank-config.pdb
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\bank-config.genruntimeconfig.cache
+G:\My Drive\Programming\C#\source\repos\bank-config\obj\Debug\net6.0\ref\bank-config.dll

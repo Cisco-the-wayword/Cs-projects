@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\handman\bin\Debug\net6.0\handman.exe
+C:\Users\user\source\repos\handman\bin\Debug\net6.0\handman.deps.json
+C:\Users\user\source\repos\handman\bin\Debug\net6.0\handman.runtimeconfig.json
+C:\Users\user\source\repos\handman\bin\Debug\net6.0\handman.dll
+C:\Users\user\source\repos\handman\bin\Debug\net6.0\handman.pdb
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\handman.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\handman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\handman.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\handman.AssemblyInfo.cs
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\handman.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\handman.dll
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\refint\handman.dll
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\handman.pdb
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\handman.genruntimeconfig.cache
+C:\Users\user\source\repos\handman\obj\Debug\net6.0\ref\handman.dll

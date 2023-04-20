@@ -1,0 +1,5 @@
+G:\My Drive\Programming\C#\source\repos\stack\obj\Debug\net6.0\stack.csproj.AssemblyReference.cache
+G:\My Drive\Programming\C#\source\repos\stack\obj\Debug\net6.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\C#\source\repos\stack\obj\Debug\net6.0\stack.AssemblyInfoInputs.cache
+G:\My Drive\Programming\C#\source\repos\stack\obj\Debug\net6.0\stack.AssemblyInfo.cs
+G:\My Drive\Programming\C#\source\repos\stack\obj\Debug\net6.0\stack.csproj.CoreCompileInputs.cache

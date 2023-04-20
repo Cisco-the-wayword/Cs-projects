@@ -1,0 +1,15 @@
+G:\My Drive\Programming\C#\source\repos\conditional-statements\bin\Debug\net6.0\conditional-statements.exe
+G:\My Drive\Programming\C#\source\repos\conditional-statements\bin\Debug\net6.0\conditional-statements.deps.json
+G:\My Drive\Programming\C#\source\repos\conditional-statements\bin\Debug\net6.0\conditional-statements.runtimeconfig.json
+G:\My Drive\Programming\C#\source\repos\conditional-statements\bin\Debug\net6.0\conditional-statements.dll
+G:\My Drive\Programming\C#\source\repos\conditional-statements\bin\Debug\net6.0\conditional-statements.pdb
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\conditional-statements.csproj.AssemblyReference.cache
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\conditional-statements.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\conditional-statements.AssemblyInfoInputs.cache
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\conditional-statements.AssemblyInfo.cs
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\conditional-statements.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\conditional-statements.dll
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\refint\conditional-statements.dll
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\conditional-statements.pdb
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\conditional-statements.genruntimeconfig.cache
+G:\My Drive\Programming\C#\source\repos\conditional-statements\obj\Debug\net6.0\ref\conditional-statements.dll
