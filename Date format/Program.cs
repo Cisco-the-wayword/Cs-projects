@@ -27,7 +27,15 @@ class Date
             month = GetMonthFromString(monthStr);
         }
 
-        int.TryParse(yearStr, out year);
+        if (!int.TryParse(yearStr, out year))
+        {
+            Console.WriteLine("Invalid year. Please enter a year between 2020 and 2030.");
+        }
+        else if (year < 2020 || year > 2030)
+        {
+            Console.WriteLine("Invalid year. Please enter a year between 2020 and 2030.");
+        }
+
     }
 
     public string GetDateFormat()
