@@ -1,0 +1,15 @@
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\bin\Debug\net6.0\Duplicate-numbers.exe
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\bin\Debug\net6.0\Duplicate-numbers.deps.json
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\bin\Debug\net6.0\Duplicate-numbers.runtimeconfig.json
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\bin\Debug\net6.0\Duplicate-numbers.dll
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\bin\Debug\net6.0\Duplicate-numbers.pdb
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\Duplicate-numbers.csproj.AssemblyReference.cache
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\Duplicate-numbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\Duplicate-numbers.AssemblyInfoInputs.cache
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\Duplicate-numbers.AssemblyInfo.cs
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\Duplicate-numbers.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\Duplicate-numbers.dll
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\refint\Duplicate-numbers.dll
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\Duplicate-numbers.pdb
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\Duplicate-numbers.genruntimeconfig.cache
+G:\My Drive\Programming\C#\source\repos\Duplicate-numbers\obj\Debug\net6.0\ref\Duplicate-numbers.dll

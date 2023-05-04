@@ -1,0 +1,15 @@
+G:\My Drive\Programming\C#\source\repos\Time-validator\bin\Debug\net6.0\Time-validator.exe
+G:\My Drive\Programming\C#\source\repos\Time-validator\bin\Debug\net6.0\Time-validator.deps.json
+G:\My Drive\Programming\C#\source\repos\Time-validator\bin\Debug\net6.0\Time-validator.runtimeconfig.json
+G:\My Drive\Programming\C#\source\repos\Time-validator\bin\Debug\net6.0\Time-validator.dll
+G:\My Drive\Programming\C#\source\repos\Time-validator\bin\Debug\net6.0\Time-validator.pdb
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\Time-validator.csproj.AssemblyReference.cache
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\Time-validator.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\Time-validator.AssemblyInfoInputs.cache
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\Time-validator.AssemblyInfo.cs
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\Time-validator.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\Time-validator.dll
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\refint\Time-validator.dll
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\Time-validator.pdb
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\Time-validator.genruntimeconfig.cache
+G:\My Drive\Programming\C#\source\repos\Time-validator\obj\Debug\net6.0\ref\Time-validator.dll
