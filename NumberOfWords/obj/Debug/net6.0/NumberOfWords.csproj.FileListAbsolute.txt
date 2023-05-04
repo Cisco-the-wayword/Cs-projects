@@ -1,0 +1,15 @@
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\bin\Debug\net6.0\NumberOfWords.exe
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\bin\Debug\net6.0\NumberOfWords.deps.json
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\bin\Debug\net6.0\NumberOfWords.runtimeconfig.json
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\bin\Debug\net6.0\NumberOfWords.dll
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\bin\Debug\net6.0\NumberOfWords.pdb
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\NumberOfWords.csproj.AssemblyReference.cache
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\NumberOfWords.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\NumberOfWords.AssemblyInfoInputs.cache
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\NumberOfWords.AssemblyInfo.cs
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\NumberOfWords.csproj.CoreCompileInputs.cache
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\NumberOfWords.dll
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\refint\NumberOfWords.dll
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\NumberOfWords.pdb
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\NumberOfWords.genruntimeconfig.cache
+G:\My Drive\Programming\C#\source\repos\NumberOfWords\obj\Debug\net6.0\ref\NumberOfWords.dll
