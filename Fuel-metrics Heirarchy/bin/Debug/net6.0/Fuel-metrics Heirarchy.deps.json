@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fuel-metrics Heirarchy/1.0.0": {
+        "runtime": {
+          "Fuel-metrics Heirarchy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fuel-metrics Heirarchy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
